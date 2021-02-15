@@ -27,4 +27,4 @@ Add the URL to your animated app walkthough `gif` in the image tag below, `http:
 ### Notes
 Describe any challenges encountered while building the app.
 
-I face no major challenged while building this app
+I face no major challenges while building this app.
