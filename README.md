@@ -40,7 +40,7 @@ I faced no challenges while building this app.
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/odg2btvxwB.gif" width=250><br>
+<img src="https://im6.ezgif.com/tmp/ezgif-6-793948bc696f.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
